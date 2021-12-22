@@ -5,12 +5,20 @@
     <link>https://olimon660.github.io/simoncai.github.io/tag/deep-learning/</link>
       <atom:link href="https://olimon660.github.io/simoncai.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>https://olimon660.github.io/simoncai.github.io/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Integrating multi-omics data with biological knowledge by Transformer-based deep learning.</title>
+      <link>https://olimon660.github.io/simoncai.github.io/talk/integrating-multi-omics-data-with-biological-knowledge-by-transformer-based-deep-learning./</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/talk/integrating-multi-omics-data-with-biological-knowledge-by-transformer-based-deep-learning./</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Example Project</title>
