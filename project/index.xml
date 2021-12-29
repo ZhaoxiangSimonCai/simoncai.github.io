@@ -5,12 +5,21 @@
     <link>https://olimon660.github.io/simoncai.github.io/project/</link>
       <atom:link href="https://olimon660.github.io/simoncai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://olimon660.github.io/simoncai.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Vaccine misinformation identification (1st prize winner)</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/usyd2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/usyd2020/</guid>
+      <description>&lt;p&gt;The spread of misinformation can undermine confidence in vaccination. The capacity for social media to quickly and effectively spread information or misinformation is a pressing question for governments and global agencies. Tools such as deep learning, machine learning, sentiment analysis and text mining could provide solutions to help monitor the emergence of vaccine misinformation that underpin mitigation strategies and limit damage to vaccine confidence. You are invited to assist Assoc. Prof. Adam Dunn from the Faculty of Medicine and Health in designing a classifier to find vaccine sentiment in Twitter posts.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
@@ -22,11 +31,40 @@
     </item>
     
     <item>
+      <title>Ocular Disease Intelligent Recognition (3rd prize winner)</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/odir2019/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/odir2019/</guid>
+      <description>&lt;p&gt;In ophthalmology, fundus screening is an economic and effective way to prevent blindness as early as possible that cased by diabetes, glaucoma, cataract, age-related macular degeneration (AMD) and many other causes. The figure below shows five simulated eye conditions when they have corresponding disease compared with normal vision.&lt;/p&gt;
+&lt;p&gt;Early detection of common ocular diseases is quite difficult since few symptoms are visible in the early stage of diseases. For example, people with longer standing diabetes have a higher chance of developing Diabetic Retinopathy (DR) and Diabetic Macular Edema (DME). The early sign of diabetic eye disease is microaneurysms, which is small and hard to detect. Macula is responsible for the central vision. Macula with fluid buildup will distort vision. Function degeneration of macula in aged people has no symptoms in the early stage. Cataract is also commonly seen in aged people. It will decrease human&amp;rsquo;s vision. Glaucoma refers to a group of diseases that causes damage to the optic nerve head, which is irreversible. Moreover, hypertension will change the morphological structures of blood vessels, for example, diameter changes and tortuosity alteration. It can produce cardiac-cerebral vascular diseases, like strokes and heart attacks. Finally, vision loss is also of high risk in myopia people because of progressive retinal pigment epithelial thinning and attenuation. Early detection of these diseases could prevent vision damage and other problems.&lt;/p&gt;
+&lt;p&gt;The purpose of this challenge is to develop methods for automatic ocular disease classification. With color fundus images from left and right eyes as inputs (may use other provided information, such as patient age, sex), the goal of ocular disease classification is to classify a patient into eight catagories, including normal, diabetes, glaucoma, cataract, AMD, hypertension, myopia and other diseases/abnormalities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Differentiation Scoring of Embryonic Cells via a Single-cell based Reference Lineage Tree</title>
       <link>https://olimon660.github.io/simoncai.github.io/project/singlecell2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://olimon660.github.io/simoncai.github.io/project/singlecell2019/</guid>
       <description>&lt;p&gt;I designed a new method which can be used by embryologists to determine the embryo differentiation propensity, given bulk RNA-seq data or qPCR data. The method is novel in using combined different single-cell datasets as a reference, then mapping the bulk RNA data to the lineage tree that is inferred from the single-cell data. This new method will greatly facilitate experiments where only bulk sequencing can be used.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KPMG-MBS Natural Language Processing Challenge (Prize Winner)</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/kpgm2018/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/kpgm2018/</guid>
+      <description>&lt;p&gt;KPMG and Melbourne Business School held a data science challenge with a topic in Natural Language Processing (NLP). The task was to explore complaints data from banks and analyse how NLP techniques can be leveraged. In this project, I explored and compared a number of NLP techniques, including tokenising, stemming, bag-of-words, word embedding etc, and designed a model to automatically classify complaint categories, so banks can use the model to increase workflow efficiency. The project won the 1st place with a $4000 prize.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prioritization Algorithm Enhancement and Simplification in Job Recommendation</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/seek2018/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/seek2018/</guid>
+      <description>&lt;p&gt;During the 5 weeks internship at SEEK, together with another three group members and one mentor from SEEK, we developed a model to make prioritizations for the relevant jobs selected by existing algorithms. We started the project from the data collection stage and finished the project with a functional model which could lead to a potential 12.8% uplift on the click-through ratio with our estimation. The final dataset we focused contained over 400K observations with 1800+ features. We used both Presto and MS SQL server to extract the data needed. The final model was based on LightGBM, which works especially well on data with a large number of features. With a programming background, I did most of the technical work in the team, including AWS setup/troubleshooting, model tuning etc.&lt;/p&gt;
 </description>
     </item>
     

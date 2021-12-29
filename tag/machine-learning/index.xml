@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>A pan-cancer proteomic map of 949 human cell lines</title>
+      <link>https://olimon660.github.io/simoncai.github.io/talk/a-pan-cancer-proteomic-map-of-949-human-cell-lines/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/talk/a-pan-cancer-proteomic-map-of-949-human-cell-lines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning for multi-omics data integration in cancer</title>
       <link>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
@@ -51,6 +59,15 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://olimon660.github.io/simoncai.github.io/project/singlecell2019/</guid>
       <description>&lt;p&gt;I designed a new method which can be used by embryologists to determine the embryo differentiation propensity, given bulk RNA-seq data or qPCR data. The method is novel in using combined different single-cell datasets as a reference, then mapping the bulk RNA data to the lineage tree that is inferred from the single-cell data. This new method will greatly facilitate experiments where only bulk sequencing can be used.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prioritization Algorithm Enhancement and Simplification in Job Recommendation</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/seek2018/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/seek2018/</guid>
+      <description>&lt;p&gt;During the 5 weeks internship at SEEK, together with another three group members and one mentor from SEEK, we developed a model to make prioritizations for the relevant jobs selected by existing algorithms. We started the project from the data collection stage and finished the project with a functional model which could lead to a potential 12.8% uplift on the click-through ratio with our estimation. The final dataset we focused contained over 400K observations with 1800+ features. We used both Presto and MS SQL server to extract the data needed. The final model was based on LightGBM, which works especially well on data with a large number of features. With a programming background, I did most of the technical work in the team, including AWS setup/troubleshooting, model tuning etc.&lt;/p&gt;
 </description>
     </item>
     

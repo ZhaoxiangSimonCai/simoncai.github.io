@@ -45,11 +45,40 @@
     </item>
     
     <item>
+      <title>Vaccine misinformation identification (1st prize winner)</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/usyd2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/usyd2020/</guid>
+      <description>&lt;p&gt;The spread of misinformation can undermine confidence in vaccination. The capacity for social media to quickly and effectively spread information or misinformation is a pressing question for governments and global agencies. Tools such as deep learning, machine learning, sentiment analysis and text mining could provide solutions to help monitor the emergence of vaccine misinformation that underpin mitigation strategies and limit damage to vaccine confidence. You are invited to assist Assoc. Prof. Adam Dunn from the Faculty of Medicine and Health in designing a classifier to find vaccine sentiment in Twitter posts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
       <link>https://olimon660.github.io/simoncai.github.io/project/sanger2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://olimon660.github.io/simoncai.github.io/project/sanger2020/</guid>
       <description>&lt;p&gt;Proteomic data can reveal novel associations between genotype and phenotype, beyond what is apparent from genomics or transcriptomics alone. However, a lack of large proteomic datasets across a range of cancer types has limited our understanding of proteome network organisation and regulation. We produced a pan-cancer proteomic map derived from 949 human cancer cell lines. The map encompasses more than 40 cancer types derived from over 28 distinct human tissues. The samples were processed with a clinically-relevant workflow involving rapid and minimally complex sample preparation, quantifying 8,500 proteins. The raw proteomic data were acquired by data independent acquisition mass spectrometry (DIA-MS) at ProCan® in Australia. The processed data were analysed with a bespoke deep learning-based pipeline (DeeProM) that integrates multi-omics, CRISPR-Cas9 gene essentiality and drug sensitivity information produced at the Wellcome Sanger Institute. First, our findings reveal pervasive post-transcriptional modification and thousands of putative protein biomarkers of cancer vulnerabilities. Second, DeeProM statistics show that a fraction of the proteome can confer similar predictive power to the entire transcriptome. This has key implications for the clinical application of proteomics in drug response prediction. Third, we demonstrate that a random proportion of the identified proteins can provide robust predictions of cancer cell phenotypes, underpinning the concept of pervasive co-regulation of protein networks. This pan-cancer cell line proteomic map is a comprehensive resource that expands our understanding of cancer proteomes. These data reveal principles of cancer cell phenotypes, including genetic vulnerabilities and drug sensitivities, that are important for developing novel targeted anticancer therapies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ocular Disease Intelligent Recognition (3rd prize winner)</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/odir2019/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/odir2019/</guid>
+      <description>&lt;p&gt;In ophthalmology, fundus screening is an economic and effective way to prevent blindness as early as possible that cased by diabetes, glaucoma, cataract, age-related macular degeneration (AMD) and many other causes. The figure below shows five simulated eye conditions when they have corresponding disease compared with normal vision.&lt;/p&gt;
+&lt;p&gt;Early detection of common ocular diseases is quite difficult since few symptoms are visible in the early stage of diseases. For example, people with longer standing diabetes have a higher chance of developing Diabetic Retinopathy (DR) and Diabetic Macular Edema (DME). The early sign of diabetic eye disease is microaneurysms, which is small and hard to detect. Macula is responsible for the central vision. Macula with fluid buildup will distort vision. Function degeneration of macula in aged people has no symptoms in the early stage. Cataract is also commonly seen in aged people. It will decrease human&amp;rsquo;s vision. Glaucoma refers to a group of diseases that causes damage to the optic nerve head, which is irreversible. Moreover, hypertension will change the morphological structures of blood vessels, for example, diameter changes and tortuosity alteration. It can produce cardiac-cerebral vascular diseases, like strokes and heart attacks. Finally, vision loss is also of high risk in myopia people because of progressive retinal pigment epithelial thinning and attenuation. Early detection of these diseases could prevent vision damage and other problems.&lt;/p&gt;
+&lt;p&gt;The purpose of this challenge is to develop methods for automatic ocular disease classification. With color fundus images from left and right eyes as inputs (may use other provided information, such as patient age, sex), the goal of ocular disease classification is to classify a patient into eight catagories, including normal, diabetes, glaucoma, cataract, AMD, hypertension, myopia and other diseases/abnormalities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KPMG-MBS Natural Language Processing Challenge (Prize Winner)</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/kpgm2018/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/kpgm2018/</guid>
+      <description>&lt;p&gt;KPMG and Melbourne Business School held a data science challenge with a topic in Natural Language Processing (NLP). The task was to explore complaints data from banks and analyse how NLP techniques can be leveraged. In this project, I explored and compared a number of NLP techniques, including tokenising, stemming, bag-of-words, word embedding etc, and designed a model to automatically classify complaint categories, so banks can use the model to increase workflow efficiency. The project won the 1st place with a $4000 prize.&lt;/p&gt;
 </description>
     </item>
     

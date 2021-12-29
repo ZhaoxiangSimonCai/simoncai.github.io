@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural language processing | Simon Cai</title>
+    <link>https://olimon660.github.io/simoncai.github.io/tag/natural-language-processing/</link>
+      <atom:link href="https://olimon660.github.io/simoncai.github.io/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natural language processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
+      <title>Natural language processing</title>
+      <link>https://olimon660.github.io/simoncai.github.io/tag/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>Vaccine misinformation identification (1st prize winner)</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/usyd2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/usyd2020/</guid>
+      <description>&lt;p&gt;The spread of misinformation can undermine confidence in vaccination. The capacity for social media to quickly and effectively spread information or misinformation is a pressing question for governments and global agencies. Tools such as deep learning, machine learning, sentiment analysis and text mining could provide solutions to help monitor the emergence of vaccine misinformation that underpin mitigation strategies and limit damage to vaccine confidence. You are invited to assist Assoc. Prof. Adam Dunn from the Faculty of Medicine and Health in designing a classifier to find vaccine sentiment in Twitter posts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KPMG-MBS Natural Language Processing Challenge (Prize Winner)</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/kpgm2018/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/kpgm2018/</guid>
+      <description>&lt;p&gt;KPMG and Melbourne Business School held a data science challenge with a topic in Natural Language Processing (NLP). The task was to explore complaints data from banks and analyse how NLP techniques can be leveraged. In this project, I explored and compared a number of NLP techniques, including tokenising, stemming, bag-of-words, word embedding etc, and designed a model to automatically classify complaint categories, so banks can use the model to increase workflow efficiency. The project won the 1st place with a $4000 prize.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

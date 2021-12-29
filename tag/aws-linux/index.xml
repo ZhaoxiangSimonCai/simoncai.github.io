@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS (Linux) | Simon Cai</title>
+    <link>https://olimon660.github.io/simoncai.github.io/tag/aws-linux/</link>
+      <atom:link href="https://olimon660.github.io/simoncai.github.io/tag/aws-linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>AWS (Linux)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
+      <title>AWS (Linux)</title>
+      <link>https://olimon660.github.io/simoncai.github.io/tag/aws-linux/</link>
+    </image>
+    
+    <item>
+      <title>Prioritization Algorithm Enhancement and Simplification in Job Recommendation</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/seek2018/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/seek2018/</guid>
+      <description>&lt;p&gt;During the 5 weeks internship at SEEK, together with another three group members and one mentor from SEEK, we developed a model to make prioritizations for the relevant jobs selected by existing algorithms. We started the project from the data collection stage and finished the project with a functional model which could lead to a potential 12.8% uplift on the click-through ratio with our estimation. The final dataset we focused contained over 400K observations with 1800+ features. We used both Presto and MS SQL server to extract the data needed. The final model was based on LightGBM, which works especially well on data with a large number of features. With a programming background, I did most of the technical work in the team, including AWS setup/troubleshooting, model tuning etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
