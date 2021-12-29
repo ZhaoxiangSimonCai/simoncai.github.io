@@ -5,12 +5,20 @@
     <link>https://olimon660.github.io/simoncai.github.io/</link>
       <atom:link href="https://olimon660.github.io/simoncai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Cai</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
       <title>Simon Cai</title>
       <link>https://olimon660.github.io/simoncai.github.io/</link>
     </image>
+    
+    <item>
+      <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
+      <link>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrating multi-omics data with biological knowledge by Transformer-based deep learning.</title>
@@ -29,6 +37,14 @@
     </item>
     
     <item>
+      <title>Machine learning for multi-omics data integration in cancer</title>
+      <link>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
       <link>https://olimon660.github.io/simoncai.github.io/talk/pan-cancer-proteomic-map-of-949-human-cell-lines-reveals-principles-of-cancer-vulnerabilities/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
@@ -37,11 +53,21 @@
     </item>
     
     <item>
-      <title>HetFHMM: A novel approach to infer tumor heterogeneity using factorial Hidden Markov model</title>
-      <link>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</guid>
-      <description></description>
+      <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/sanger2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/sanger2020/</guid>
+      <description>&lt;p&gt;Proteomic data can reveal novel associations between genotype and phenotype, beyond what is apparent from genomics or transcriptomics alone. However, a lack of large proteomic datasets across a range of cancer types has limited our understanding of proteome network organisation and regulation. We produced a pan-cancer proteomic map derived from 949 human cancer cell lines. The map encompasses more than 40 cancer types derived from over 28 distinct human tissues. The samples were processed with a clinically-relevant workflow involving rapid and minimally complex sample preparation, quantifying 8,500 proteins. The raw proteomic data were acquired by data independent acquisition mass spectrometry (DIA-MS) at ProCan® in Australia. The processed data were analysed with a bespoke deep learning-based pipeline (DeeProM) that integrates multi-omics, CRISPR-Cas9 gene essentiality and drug sensitivity information produced at the Wellcome Sanger Institute. First, our findings reveal pervasive post-transcriptional modification and thousands of putative protein biomarkers of cancer vulnerabilities. Second, DeeProM statistics show that a fraction of the proteome can confer similar predictive power to the entire transcriptome. This has key implications for the clinical application of proteomics in drug response prediction. Third, we demonstrate that a random proportion of the identified proteins can provide robust predictions of cancer cell phenotypes, underpinning the concept of pervasive co-regulation of protein networks. This pan-cancer cell line proteomic map is a comprehensive resource that expands our understanding of cancer proteomes. These data reveal principles of cancer cell phenotypes, including genetic vulnerabilities and drug sensitivities, that are important for developing novel targeted anticancer therapies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differentiation Scoring of Embryonic Cells via a Single-cell based Reference Lineage Tree</title>
+      <link>https://olimon660.github.io/simoncai.github.io/project/singlecell2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/project/singlecell2019/</guid>
+      <description>&lt;p&gt;I designed a new method which can be used by embryologists to determine the embryo differentiation propensity, given bulk RNA-seq data or qPCR data. The method is novel in using combined different single-cell datasets as a reference, then mapping the bulk RNA data to the lineage tree that is inferred from the single-cell data. This new method will greatly facilitate experiments where only bulk sequencing can be used.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -53,7 +79,7 @@
     </item>
     
     <item>
-      <title>HetFHMM: A novel approach to infer tumor heterogeneity using factorial Hidden Markov model</title>
+      <title>Barcode-Like Paper Sensor for Smartphone Diagnostics: An Application of Blood Typing</title>
       <link>https://olimon660.github.io/simoncai.github.io/publication/barcode/</link>
       <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://olimon660.github.io/simoncai.github.io/publication/barcode/</guid>
@@ -66,24 +92,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://olimon660.github.io/simoncai.github.io/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Differentiation Scoring of Embryonic Cells via a Single-cell based Reference Lineage Tree</title>
-      <link>https://olimon660.github.io/simoncai.github.io/project/singlecell2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://olimon660.github.io/simoncai.github.io/project/singlecell2019/</guid>
-      <description>&lt;p&gt;I designed a new method which can be used by embryologists to determine the embryo differentiation propensity, given bulk RNA-seq data or qPCR data. The method is novel in using combined different single-cell datasets as a reference, then mapping the bulk RNA data to the lineage tree that is inferred from the single-cell data. This new method will greatly facilitate experiments where only bulk sequencing can be used.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
-      <link>https://olimon660.github.io/simoncai.github.io/project/sanger2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://olimon660.github.io/simoncai.github.io/project/sanger2020/</guid>
-      <description>&lt;p&gt;Proteomic data can reveal novel associations between genotype and phenotype, beyond what is apparent from genomics or transcriptomics alone. However, a lack of large proteomic datasets across a range of cancer types has limited our understanding of proteome network organisation and regulation. We produced a pan-cancer proteomic map derived from 949 human cancer cell lines. The map encompasses more than 40 cancer types derived from over 28 distinct human tissues. The samples were processed with a clinically-relevant workflow involving rapid and minimally complex sample preparation, quantifying 8,500 proteins. The raw proteomic data were acquired by data independent acquisition mass spectrometry (DIA-MS) at ProCan® in Australia. The processed data were analysed with a bespoke deep learning-based pipeline (DeeProM) that integrates multi-omics, CRISPR-Cas9 gene essentiality and drug sensitivity information produced at the Wellcome Sanger Institute. First, our findings reveal pervasive post-transcriptional modification and thousands of putative protein biomarkers of cancer vulnerabilities. Second, DeeProM statistics show that a fraction of the proteome can confer similar predictive power to the entire transcriptome. This has key implications for the clinical application of proteomics in drug response prediction. Third, we demonstrate that a random proportion of the identified proteins can provide robust predictions of cancer cell phenotypes, underpinning the concept of pervasive co-regulation of protein networks. This pan-cancer cell line proteomic map is a comprehensive resource that expands our understanding of cancer proteomes. These data reveal principles of cancer cell phenotypes, including genetic vulnerabilities and drug sensitivities, that are important for developing novel targeted anticancer therapies.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

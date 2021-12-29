@@ -5,7 +5,7 @@
     <link>https://olimon660.github.io/simoncai.github.io/tag/single-cell-rna-sequencing/</link>
       <atom:link href="https://olimon660.github.io/simoncai.github.io/tag/single-cell-rna-sequencing/index.xml" rel="self" type="application/rss+xml" />
     <description>Single-cell RNA sequencing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
       <title>Single-cell RNA sequencing</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Differentiation Scoring of Embryonic Cells via a Single-cell based Reference Lineage Tree</title>
       <link>https://olimon660.github.io/simoncai.github.io/project/singlecell2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://olimon660.github.io/simoncai.github.io/project/singlecell2019/</guid>
       <description>&lt;p&gt;I designed a new method which can be used by embryologists to determine the embryo differentiation propensity, given bulk RNA-seq data or qPCR data. The method is novel in using combined different single-cell datasets as a reference, then mapping the bulk RNA data to the lineage tree that is inferred from the single-cell data. This new method will greatly facilitate experiments where only bulk sequencing can be used.&lt;/p&gt;
 </description>
