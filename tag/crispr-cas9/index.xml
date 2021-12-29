@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRISPR-Cas9 | Simon Cai</title>
+    <link>https://olimon660.github.io/simoncai.github.io/tag/crispr-cas9/</link>
+      <atom:link href="https://olimon660.github.io/simoncai.github.io/tag/crispr-cas9/index.xml" rel="self" type="application/rss+xml" />
+    <description>CRISPR-Cas9</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
+      <title>CRISPR-Cas9</title>
+      <link>https://olimon660.github.io/simoncai.github.io/tag/crispr-cas9/</link>
+    </image>
+    
+    <item>
+      <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
+      <link>https://olimon660.github.io/simoncai.github.io/talk/pan-cancer-proteomic-map-of-949-human-cell-lines-reveals-principles-of-cancer-vulnerabilities/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/talk/pan-cancer-proteomic-map-of-949-human-cell-lines-reveals-principles-of-cancer-vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HetFHMM: A novel approach to infer tumor heterogeneity using factorial Hidden Markov model</title>
+      <link>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
