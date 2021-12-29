@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Simon Cai</title>
-    <link>https://olimon660.github.io/simoncai.github.io/project/</link>
-      <atom:link href="https://olimon660.github.io/simoncai.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Single-cell RNA sequencing | Simon Cai</title>
+    <link>https://olimon660.github.io/simoncai.github.io/tag/single-cell-rna-sequencing/</link>
+      <atom:link href="https://olimon660.github.io/simoncai.github.io/tag/single-cell-rna-sequencing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Single-cell RNA sequencing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>https://olimon660.github.io/simoncai.github.io/project/</link>
+      <title>Single-cell RNA sequencing</title>
+      <link>https://olimon660.github.io/simoncai.github.io/tag/single-cell-rna-sequencing/</link>
     </image>
     
     <item>

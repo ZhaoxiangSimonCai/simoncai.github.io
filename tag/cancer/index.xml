@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer | Simon Cai</title>
+    <link>https://olimon660.github.io/simoncai.github.io/tag/cancer/</link>
+      <atom:link href="https://olimon660.github.io/simoncai.github.io/tag/cancer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cancer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
+      <title>Cancer</title>
+      <link>https://olimon660.github.io/simoncai.github.io/tag/cancer/</link>
+    </image>
+    
+    <item>
+      <title>HetFHMM: A novel approach to infer tumor heterogeneity using factorial Hidden Markov model</title>
+      <link>https://olimon660.github.io/simoncai.github.io/publication/hetfhmm/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/publication/hetfhmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
