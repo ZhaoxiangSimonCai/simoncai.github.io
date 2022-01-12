@@ -5,12 +5,28 @@
     <link>https://olimon660.github.io/simoncai.github.io/tag/drug-response/</link>
       <atom:link href="https://olimon660.github.io/simoncai.github.io/tag/drug-response/index.xml" rel="self" type="application/rss+xml" />
     <description>Drug response</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
       <title>Drug response</title>
       <link>https://olimon660.github.io/simoncai.github.io/tag/drug-response/</link>
     </image>
+    
+    <item>
+      <title>Machine learning for multi-omics data integration in cancer</title>
+      <link>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
+      <link>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
@@ -22,26 +38,10 @@
     </item>
     
     <item>
-      <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
-      <link>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</link>
-      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A pan-cancer proteomic map of 949 human cell lines</title>
       <link>https://olimon660.github.io/simoncai.github.io/talk/a-pan-cancer-proteomic-map-of-949-human-cell-lines/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://olimon660.github.io/simoncai.github.io/talk/a-pan-cancer-proteomic-map-of-949-human-cell-lines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning for multi-omics data integration in cancer</title>
-      <link>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</link>
-      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</guid>
       <description></description>
     </item>
     
