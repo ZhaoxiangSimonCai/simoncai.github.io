@@ -5,7 +5,7 @@
     <link>https://olimon660.github.io/simoncai.github.io/publication/</link>
       <atom:link href="https://olimon660.github.io/simoncai.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Machine learning for multi-omics data integration in cancer</title>
-      <link>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</guid>
+      <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
+      <link>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
-      <link>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</link>
+      <title>Machine learning for multi-omics data integration in cancer</title>
+      <link>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</guid>
+      <guid>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</guid>
       <description></description>
     </item>
     

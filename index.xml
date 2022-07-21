@@ -5,7 +5,7 @@
     <link>https://olimon660.github.io/simoncai.github.io/</link>
       <atom:link href="https://olimon660.github.io/simoncai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Cai</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olimon660.github.io/simoncai.github.io/media/icon_huae530c75d6edc8879cf470e9bcbbe3eb_108879_512x512_fill_lanczos_center_3.png</url>
       <title>Simon Cai</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Machine learning for multi-omics data integration in cancer</title>
-      <link>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</guid>
+      <title>Machine Learning for multi-omics data integration in cancer</title>
+      <link>https://olimon660.github.io/simoncai.github.io/talk/machine-learning-for-multi-omics-data-integration-in-cancer/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/talk/machine-learning-for-multi-omics-data-integration-in-cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
       <link>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://olimon660.github.io/simoncai.github.io/publication/sanger2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan-cancer proteomic map of 949 human cell lines reveals principles of cancer vulnerabilities</title>
+      <link>https://olimon660.github.io/simoncai.github.io/talk/pan-cancer-proteomic-map-of-949-human-cell-lines-reveals-principles-of-cancer-vulnerabilities/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/talk/pan-cancer-proteomic-map-of-949-human-cell-lines-reveals-principles-of-cancer-vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning for multi-omics data integration in cancer</title>
+      <link>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://olimon660.github.io/simoncai.github.io/publication/multiomics2020/</guid>
       <description></description>
     </item>
     
